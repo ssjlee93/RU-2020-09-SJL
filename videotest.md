@@ -1,9 +1,9 @@
 
-# a
+# video test
 
-video recording
+testing for video recording
 
-![videotest](https://img.shields.io/static/v1?label=videotest&message=successful&color=success)
+![videotest](https://img.shields.io/static/v1?label=videotest&message=successful&color=important)
 
 ## Table of Contents 
 
@@ -17,23 +17,23 @@ video recording
 
 ## Installation
 
-download the files
+npm install and npm install inquirer
 
 ## Usage
 
-answer the questions and get a readme
+node index in terminal
 
 ## License
 
-MIT?
+MIT? 
 
 ## Contributing
 
-do whatever
+contact me
 
 ## Tests
 
-this is actually my fourth test
+I generated 5 of these readmes 
 
 ## Questions
 
@@ -41,5 +41,5 @@ If you have any more question, please contact ssjlee93
 
 ## Credits
 
-mememe
+MEEE
 
