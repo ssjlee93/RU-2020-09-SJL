@@ -75,7 +75,12 @@ const questions = [
             "ff9b4",
             "9cf"
         ]
-    }
+    },
+    {
+        type: "input",
+        message: "Who should take the credit for this project?",
+        name: "credits"
+    },
 ];
 
 function init() {
