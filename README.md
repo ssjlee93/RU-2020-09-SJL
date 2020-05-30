@@ -1,4 +1,4 @@
-# randomname-2020-05-sjl-09
+# RU-2020-09-SJL
 
 ## Github R3ADM3 generator 
 This project automatically creates a R3ADM3 file using Node.js 
